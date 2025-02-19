@@ -9,7 +9,7 @@ You can change the set value, `30` (manually).
 
 ### **How It Works**  
 1. **Infinite Loop**:  
-   - The program uses a `for(;;)` loop to run indefinitely.  
+   - The program uses a `for(;;)` loop to run infinitely.  
 2. **Number Increment**:  
    - The variable `i` starts at `1`, and is incremented with each iteration.  
    - When `i` exceeds `30`, it resets to `1`.  
