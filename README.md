@@ -1,4 +1,4 @@
-# **High-Speed Loop Program**  
+# **Endless Loop**  
 
 This program continuously prints numbers from `1` to `30` in a high-speed loop. 
 When the number exceeds `30`, it resets back to `1`. The output is printed without delay for maximum speed. 
